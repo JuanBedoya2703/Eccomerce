@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "Play Station 5",
+    "price": 2400000,
+    "description": "-Diseño delgado Con PS5, los jugadores obtienen una poderosa tecnología de juego dentro de un diseño de consola elegante y compacto. ",
+    "image": "../src/img/play 5.webp"
+  },
+  {
+    "id": 2,
+    "name": "Pantalon jeans ajustado",
+    "price": 69900,
+    "description": "Pantalón de jeans ajustado, cómodo y versátil.",
+    "image": "../src/img/panatalones jean ajustados.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Zapatos de deporte",
+    "price": 119900,
+    "description": "Zapatos de deporte ligeros y cómodos, ideales para correr o entrenar.",
+    "image": "../src/img/zapatos deportes.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Bolso de mano",
+    "price": 89900,
+    "description": "Bolso de mano elegante y práctico, perfecto para el trabajo o la escuela.",
+    "image": "../src/img/bolso de mano.webp"
+  },
+  {
+    "id": 5,
+    "name": "Reloj de pulsera",
+    "price": 149900,
+    "description": "Reloj de pulsera clásico y elegante, ideal para hombres o mujeres.",
+    "image": "../src/img/reloj de pulsera.webp"
+  },
+  {
+    "id": 6,
+    "name": "Cafetera eléctrica",
+    "price": 189900,
+    "description": "Cafetera eléctrica fácil de usar, perfecta para amantes del café.",
+    "image": "../src/img/cafetera electrica.webp"
+  },
+  {
+    "id": 7,
+    "name": "Tablet de 10 pulgadas",
+    "price": 399900,
+    "description": "Tablet de 10 pulgadas con pantalla HD y procesador rápido.",
+    "image": "../src/img/tablet de 10.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Cámara de fotos digital",
+    "price": 499900,
+    "description": "Cámara de fotos digital con lente de alta calidad y pantalla LCD.",
+    "image": "../src/img/camara fotos.avif"
+  },
+  {
+    "id": 9,
+    "name": "Auriculares inalámbricos",
+    "price": 179900,
+    "description": "Auriculares inalámbricos cómodos y con buena calidad de sonido.",
+    "image": "../src/img/auriculares inhalambricos.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Silla de oficina ergonómica",
+    "price": 249900,
+    "description": "Silla de oficina ergonómica y cómoda, ideal para trabajar largas horas.",
+    "image": "../src/img/silla ergonomica.avif"
+  },
+  {
+    "id": 11,
+    "name": "Mesa de escritorio",
+    "price": 349900,
+    "description": "Mesa de escritorio espaciosa y elegante, perfecta para el hogar o la oficina.",
+    "image": "../src/img/mesa de escritrorio.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Lámpara de mesa",
+    "price": 49900,
+    "description": "Lámpara de mesa elegante y versátil, ideal para cualquier habitación.",
+    "image": "../src/img/lampara-mesa-niquel-1.webp"
+  },
+  {
+    "id": 13,
+    "name": "Alfombra de baño",
+    "price": 29900,
+    "description": "Alfombra de baño suave y absorbente, perfecta para el baño.",
+    "image": "../src/img/alfombra baño.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Toalla de baño",
+    "price": 19900,
+    "description": "Toalla de baño suave y absorbente, ideal para después del baño.",
+    "image": "../src/img/toalla.avif"
+  },
+  {
+    "id": 15,
+    "name": "Juego de sábanas",
+    "price": 89900,
+    "description": "Juego de sábanas suaves y cómodas, perfectas para la cama.",
+    "image": "../src/img/juego de sabanas.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Edredón de plumas",
+    "price": 129900,
+    "description": "Edredón de plumas suave y cálido, ideal para el invierno.",
+    "image": "../src/img/edredon de plumas.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Cortinas de blackout",
+    "price": 99900,
+    "description": "Cortinas de blackout efectivas y elegantes, perfectas para bloquear la luz.",
+    "image": "../src/img/cortina blackout.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Juego de vajilla",
+    "price": 149900,
+    "description": "Juego de vajilla elegante y duradero, perfecto para la cocina.",
+    "image": "../src/img/juego vajilla.webp"
+  },
+  {
+    "id": 19,
+    "name": "Sartén antiadherente",
+    "price": 59900,
+    "description": "Sartén antiadherente fácil de limpiar y cocinar.",
+    "image": "../src/img/sarten antiadherente.webp"
+  },
+  {
+    "id": 20,
+    "name": "Licuadora de alta potencia",
+    "price": 199900,
+    "description": "Licuadora de alta potencia y fácil de usar, perfecta para hacer smoothies.",
+    "image": "../src/img/licuadora alta potencia.webp"
+  },
+  {
+    "id": 21,
+    "name": "Hervidor de agua eléctrico",
+    "price": 79900,
+    "description": "Hervidor de agua eléctrico rápido y fácil de usar.",
+    "image": "../src/img/hervidor de agua.webp"
+  },
+  {
+    "id": 22,
+    "name": "Máquina de café espresso",
+    "price": 299900,
+    "description": "Máquina de café espresso de alta calidad y fácil de usar.",
+    "image": "../src/img/maquina de espreso.png"
+  },
+  {
+    "id": 23,
+    "name": "Secadora de pelo",
+    "price": 99900,
+    "description": "Secadora de pelo potente y fácil de usar, perfecta para el cabello.",
+    "image": "../src/img/secador de pelo.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Cepillo de dientes eléctrico",
+    "price": 49900,
+    "description": "Cepillo de dientes eléctrico efectivo y fácil de usar.",
+    "image": "../src/img/cepillo de dientes.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Kit de cuidado personal",
+    "price": 79900,
+    "description": "Kit de cuidado personal con productos de alta calidad y naturales.",
+    "image": "../src/img/kit de cuidado.avif"
+  },
+  {
+    "id": 26,
+    "name": "Gafas de sol",
+    "price": 39900,
+    "description": "Gafas de sol elegantes y protectores, ideales para el sol.",
+    "image": "../src/img/gafas de sol.avif"
+  },
+  {
+    "id": 27,
+    "name": "Bolso de playa",
+    "price": 49900,
+    "description": "Bolso de playa grande y resistente, perfecto para llevar todo lo necesario.",
+    "image": "../src/img/bolso de playa.webp"
+  },
+  {
+    "id": 28,
+    "name": "Cargador portátil",
+    "price": 69900,
+    "description": "Cargador portátil compacto y fácil de usar, ideal para cargar dispositivos en movimiento.",
+    "image": "../src/img/cargador portatil.webp"
+  },
+  {
+    "id": 29,
+    "name": "Reloj inteligente",
+    "price": 249900,
+    "description": "Reloj inteligente con funciones de fitness y notificaciones, perfecto para mantenerse conectado.",
+    "image": "../src/img/reloj inteligente.avif"
+  },
+  {
+    "id": 30,
+    "name": "Audifonos de diadema",
+    "price": 49900,
+    "description": "Auriculares inalámbricos cómodos y con buena calidad de sonido.",
+    "image": "../src/img/audifonos de diadema.webp"
+  },
+  {
+    "id": 31,
+    "name": "Mouse inalámbrico",
+    "price": 29900,
+    "description": "Audifonos De Diadema, De Cable, Gris/Negro Cómodos audífonos. | Sencillo diseño a la moda. | Incluye un micrófono en el cable.",
+    "image": "../src/img/mouse inalambrico.jpeg"
+  },
+  {
+    "id": 32,
+    "name": "Teclado mecánico",
+    "price":499900,
+    "description": "Teclado mecánico de alta calidad y duradero, perfecto para gamers y profesionales.",
+    "image": "../src/img/teclado mecanico.png"
+  }
+]

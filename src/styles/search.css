@@ -1,0 +1,44 @@
+/* Estilos generales para la barra de búsqueda */
+.search-bar {
+  position: relative;
+  margin: 20px auto;
+  text-align: center;
+  top: 20px;
+  width: 100%;
+  max-width: 600px; /* Limitando el ancho máximo para evitar que sea muy ancha en pantallas grandes */
+}
+
+.search-bar input {
+  width: 100%; /* Ahora ocupa el 100% del contenedor */
+  padding: 12px 20px; /* Espaciado interno para mayor comodidad */
+  font-size: 16px;
+  border: 1px solid #ccc; /* Borde sutil */
+  border-radius: 25px; /* Esquinas redondeadas */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra sutil para darle profundidad */
+  transition: box-shadow 0.3s ease; /* Animación suave al enfocar */
+}
+
+/* Efecto al enfocar el campo de búsqueda */
+.search-bar input:focus {
+  outline: none; /* Elimina el borde de enfoque por defecto */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+}
+
+/* Estilos responsive */
+@media (max-width: 768px) {
+  .search-bar input {
+    font-size: 14px; /* Reducción de tamaño de fuente en pantallas más pequeñas */
+    padding: 10px 15px; /* Ajuste del padding para dispositivos móviles */
+  }
+}
+
+@media (max-width: 480px) {
+  .search-bar {
+    width: 90%; /* Ancho de la barra de búsqueda en pantallas pequeñas */
+  }
+
+  .search-bar input {
+    font-size: 14px; /* Asegura que el texto sea legible en pantallas pequeñas */
+    padding: 8px 10px; /* Ajusta el padding para que sea cómodo en dispositivos móviles */
+  }
+}
